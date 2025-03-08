@@ -55,8 +55,8 @@ python main.py
 ✨ Introduce a Custom Drink Option for users to create new recipes.  
 
 ## **📫 CONNECT WITH ME**
-🔗 GitHub: [github.com/JOSEPHLAST]()    
-🔗 Portfolio: [josephlast.github.io]()   
-🔗 LinkedIn: [JOSEPHLAST]()   
+🔗 GitHub: [github.com/JOSEPHLAST](https://github.com/JOSEPHLAST)    
+🔗 Portfolio: [josephlast.github.io](https://josephlast.github.io)   
+🔗 LinkedIn: [JOSEPHLAST](https://www.linkedin.com/in/josephlast-a-aaa813354/)   
 
 🚀 “Start your day with code and coffee!”
