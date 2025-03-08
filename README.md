@@ -33,7 +33,7 @@ This is a Python-based **Coffee Machine Program** built using **Object-Oriented 
 ## **🚀 INSTALLATION AND SETUP**  
 
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/yourusername/coffee-machine.git   
+git clone https://github.com/JOSEPHLAST/coffee-machine.git   
 cd coffee-machine   
 
 ### **2️⃣ Run the Program**
