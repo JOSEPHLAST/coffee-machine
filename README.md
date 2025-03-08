@@ -21,12 +21,12 @@ This is a Python-based **Coffee Machine Program** built using **Object-Oriented 
 
 ## **📂 PROJECT STRUCTURE**  
 
-📦 coffee-machine
-┣ 📜 main.py          # Main program logic   
-┣ 📜 menu.py          # Coffee menu & ingredients   
-┣ 📜 coffee_maker.py  # Handles machine operations   
-┣ 📜 money_machine.py  # Manages transactions   
-┗ 📜 README.md        # Project documentation   
+📦 oop-coffee-machine    
+┣ 📜 main.py             # Main program logic   
+┣ 📜 menu.py             # Coffee menu & ingredients   
+┣ 📜 coffee_maker.py     # Handles machine operations   
+┣ 📜 money_machine.py     # Manages transactions   
+┗ 📜 README.md           # Project documentation   
 
 ---
 
